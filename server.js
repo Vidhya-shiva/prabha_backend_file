@@ -37,7 +37,8 @@ const origins = [
   'http://localhost:5174', 
   'http://localhost:3000', 
   'https://prabhatex.com', 
-  'https://www.prabhatex.com'
+  'https://www.prabhatex.com',
+  'https://prabha-tex.netlify.app/'
 ];
 
 app.use(cors({
